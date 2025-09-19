@@ -1,7 +1,8 @@
-# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models (During a busy day, if a couple of scheduled tasks get canceled unexpectedly, how would you prompt the AI to review your remaining agenda and instantly reorganize your schedule to optimize your time, possibly recommending new priorities or opportunities for rest?)
 
-# Date:
-# Register no.
+# Date : 19:09:2025
+# Register no : 212223220002
+
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 

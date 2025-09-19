@@ -1,4 +1,4 @@
-# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models (During a busy day, if a couple of scheduled tasks get canceled unexpectedly, how would you prompt the AI to review your remaining agenda and instantly reorganize your schedule to optimize your time, possibly recommending new priorities or opportunities for rest?)
+# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models - (During a busy day, if a couple of scheduled tasks get canceled unexpectedly, how would you prompt the AI to review your remaining agenda and instantly reorganize your schedule to optimize your time, possibly recommending new priorities or opportunities for rest?)
 
 # Date : 19:09:2025
 # Register no : 212223220002

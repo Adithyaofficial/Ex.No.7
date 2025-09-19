@@ -31,6 +31,125 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+# Experiment :
+
+Prompt : You are my personal productivity assistant. Your role is to help me manage, reorganize, and optimize my daily schedule whenever unexpected changes happen.
+Here is my agenda for today ;
+
+08:00–10:00 : PMC Class
+
+10:00–12:00: PMC CIA
+
+12:00–01:00 : Lunch
+
+01:00–03:00: Cloud Computing Class
+
+03:00–04:30: Prompt Engineering Class
+
+ChatGPT said:
+
+Now let’s walk through the next steps with your new agenda! Here’s how I would reorganize your day:
+
+Updated Schedule : 
+
+08:00–10:00 → PMC Class (as planned)
+
+10:00–11:00 → Quick Review of PMC notes / Revise difficult topics (replaces cancelled CIA)
+
+11:00–12:00 → Personal Study or Catch-up on Assignments (productive use of free time)
+
+12:00–01:00 → Lunch (as planned)
+
+01:00–03:00 → Cloud Computing Class (as planned)
+
+03:00–03:30 → Rest Break (use freed slot from cancelled Prompt Engineering class)
+
+03:30–04:30 → Self-learning: Work on Project / Explore AI Tools (extra opportunity)
+
+Priorities:
+
+🔴 High Priority → PMC Class, Cloud Computing Class
+
+🟡 Flexible → Self-study, Assignment catch-up
+
+🟢 Rest Opportunity → 03:00–03:30
+
+Prompt: If I don't want to attend the cia on 10:00 - 12:00... rebuild this schedule to get maximum time gain for the day
+
+ChatGPT said:
+Got it 👍 You’re skipping the 10:00–12:00 PMC CIA, so let’s reorganize your day to maximize productivity and balance:
+
+✅ Revised Optimized Schedule
+
+08:00–10:00 → PMC Class (essential, fixed)
+
+10:00–11:00 → Self-Study: Revise PMC concepts / Prepare notes (productive replacement for CIA)
+
+11:00–12:00 → Assignment Work or Project Progress (use the freed slot to get ahead)
+
+12:00–01:00 → Lunch (as planned)
+
+01:00–03:00 → Cloud Computing Class (essential, fixed)
+
+03:00–03:30 → Rest Break (refresh mind after class)
+
+03:30–04:30 → Deep Work Session (Prompt Engineering practice / Cloud Computing lab work) (fills the cancelled Prompt Engineering Class slot with independent study)
+
+04:30–05:00 → Quick Review & Planning for Next Day (wrap-up with reflection and organization)
+
+🔑 Why this works:
+
+Converts cancelled class time (10–12) into focused self-study + assignments.
+
+Keeps lunch and fixed classes unchanged for balance.
+
+Inserts a rest break so you don’t burn out.
+
+Uses the freed 03:00–04:30 slot for deep work or skill-building, giving you an edge.
+
+Ends the day with review & planning, which maximizes long-term efficiency.
+
+👉 This schedule gives you 2 full extra hours in the morning + 1 extra hour in the afternoon = 3 hours total gained for personal productivity.
+
+Prompt : Now remove the most non mandatory task from this schedule and give me the updated schedule which should provide time to take rest
+
+ChatGPT said:
+Perfect 👍 You want to remove the least mandatory task from the optimized schedule so you can get extra rest.
+
+Looking at the last plan, the least mandatory task is:
+👉 04:30–05:00 → Quick Review & Planning for Next Day (you can easily push this to tomorrow morning).
+
+✅ Updated Rest-Focused Schedule
+
+08:00–10:00 → PMC Class
+
+10:00–11:00 → Self-Study: Revise PMC concepts
+
+11:00–12:00 → Assignment Work or Project Progress
+
+12:00–01:00 → Lunch
+
+01:00–03:00 → Cloud Computing Class
+
+03:00–03:30 → Rest Break 🟢
+
+03:30–04:30 → Deep Work Session (Prompt Engineering practice / Cloud Computing lab work)
+
+04:30–05:00 → Extra Rest or Free Time 🟢
+
+🔑 Benefits:
+
+Keeps core academic classes intact.
+
+Retains morning productivity block (10–12).
+
+Provides two rest periods:
+
+Short recharge (03:00–03:30)
+
+Longer downtime (04:30–05:00)
+
+Avoids unnecessary over-scheduling → ensures balance.
 
 
 # Result: 

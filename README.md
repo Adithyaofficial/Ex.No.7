@@ -5,11 +5,15 @@
 
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-#AI Tools Required: 
+# AI Tools Required: 
 
+ChatGPT (OpenAI) – to design and test prompts for reorganizing schedules.
+
+Natural Language Processing (NLP) models – for understanding input agenda and cancellations.
 
 # Explanation: 
-Prompt:
+
+# Prompt:
 "Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
 Procedure:
 1. Define the core requirements of a personal productivity assistant.
@@ -33,7 +37,7 @@ o Adapt suggestions based on past user preferences and responses.
 
 # Experiment :
 
-Prompt : You are my personal productivity assistant. Your role is to help me manage, reorganize, and optimize my daily schedule whenever unexpected changes happen.
+# Prompt : You are my personal productivity assistant. Your role is to help me manage, reorganize, and optimize my daily schedule whenever unexpected changes happen.
 Here is my agenda for today ;
 
 08:00–10:00 : PMC Class
@@ -45,7 +49,7 @@ Here is my agenda for today ;
 01:00–03:00: Cloud Computing Class
 
 03:00–04:30: Prompt Engineering Class
-
+```
 ChatGPT said:
 
 Now let’s walk through the next steps with your new agenda! Here’s how I would reorganize your day:
@@ -73,9 +77,9 @@ Priorities:
 🟡 Flexible → Self-study, Assignment catch-up
 
 🟢 Rest Opportunity → 03:00–03:30
-
-Prompt: If I don't want to attend the cia on 10:00 - 12:00... rebuild this schedule to get maximum time gain for the day
-
+```
+# Prompt: If I don't want to attend the cia on 10:00 - 12:00... rebuild this schedule to get maximum time gain for the day
+```
 ChatGPT said:
 Got it 👍 You’re skipping the 10:00–12:00 PMC CIA, so let’s reorganize your day to maximize productivity and balance:
 
@@ -110,9 +114,9 @@ Uses the freed 03:00–04:30 slot for deep work or skill-building, giving you an
 Ends the day with review & planning, which maximizes long-term efficiency.
 
 👉 This schedule gives you 2 full extra hours in the morning + 1 extra hour in the afternoon = 3 hours total gained for personal productivity.
-
+```
 Prompt : Now remove the most non mandatory task from this schedule and give me the updated schedule which should provide time to take rest
-
+```
 ChatGPT said:
 Perfect 👍 You want to remove the least mandatory task from the optimized schedule so you can get extra rest.
 
@@ -150,7 +154,7 @@ Short recharge (03:00–03:30)
 Longer downtime (04:30–05:00)
 
 Avoids unnecessary over-scheduling → ensures balance.
-
+```
 
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
